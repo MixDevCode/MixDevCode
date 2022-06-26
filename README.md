@@ -12,7 +12,7 @@ As of today, i am interested in programming discord bots, but i have also develo
 ![next](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![next](https://img.shields.io/badge/HTML5-3880FF?style=for-the-badge&logo=html5&logoColor=white)
 ![next](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![next](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=phps&logoColor=white)
+![next](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![next](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <div style="display:grid;align-items:center;justify-content:center">
