@@ -1,4 +1,4 @@
-# Hi, i'm Lucas
+# <img src="https://i.imgur.com/u1jcT2v.png" />
 
 I am a hobby developer and a constant contributor to open source, i'm currently a student of a programming career, but i'm not just that, i'm constantly developing things that catch my attention.
 
