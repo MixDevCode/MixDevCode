@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/u1jcT2v.png" />
 
-I am a hobby developer and a constant contributor to open source, i'm currently a student of a programming career, but i'm not just that, i'm constantly developing things that catch my attention.
+I am a hobby developer and a constant contributor to open source, i'm currently a student of a programming career also i constantly developing things that catch my attention.
 
 As of today, i am interested in programming discord bots, but i have also developed complete CMS or static websites.
 
