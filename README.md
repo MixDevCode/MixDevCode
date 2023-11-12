@@ -22,5 +22,5 @@ As of today, i am interested in programming discord bots, but i have also develo
 
 ## Contact me
 <div style="display:flex">
-    <img src="https://img.shields.io/badge/Mix%238164-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mix.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
