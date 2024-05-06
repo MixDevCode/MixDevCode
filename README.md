@@ -1,3 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MixDevCode.visitor-badge" />
+
+<div align="center">
+  
 # <img src="https://i.imgur.com/u1jcT2v.png" />
 
 I am a hobby developer and a constant contributor to open source, i constantly developing things that catch my attention.
@@ -16,11 +20,11 @@ As of today, i am interested in programming discord bots, but i have also develo
 ![next](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=mixdevcode&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixdevcode&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixdevcode&layout=compact&theme=gotham&langs_count=5"/>
 </div>
 
 ## Contact me
 <div style="display:flex">
     <img src="https://img.shields.io/badge/Mix.dev-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</div>
 </div>
